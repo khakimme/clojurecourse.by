@@ -1,0 +1,4 @@
+.DS_Store
+Leiningen.gitignore
+.lein-failures
+
