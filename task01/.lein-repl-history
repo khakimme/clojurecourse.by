@@ -1,0 +1,32 @@
+(ns csvdb.core)
+(hello)
+(student-tbl)
+exit
+(ns csvdb.core)
+(student-tbl)
+(hhh)
+*ns*
+(:require [clojure-csv.core :as csv])
+(hhh)
+(table student-tbl)
+(student-tbl)
+*ns*
+c
+(res)
+c
+(res)
+c
+(res)
+c
+(res)
+c
+(res)
+c
+(res)
+c
+(res)
+exit
+(ns csvdb.core)
+(res)
+(key-value-pairs 1 2 3)
+(apply hash-map [:a 22 :b 88 :p 33])
